@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RohitGhorai.RohitGhorai&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there, 👋</h1>
 
 ###
@@ -26,15 +20,19 @@
 
 ###
 
-<p align="left">I'm Rohit, from India.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Node JS,<br>- ⚡ In my free time I listen music, watching movies, etc.</p>
+<p align="left">I'm Rohit, from India.<br></p>
+
+- 🔭 I’m working as web-developer.
+- 📚 I'm currently learning Node JS,
+- ⚡ In my free time I listen music, watching movies, etc.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
