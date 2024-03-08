@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Rohit, a driven computer science student with a focus on Java and Spring Boot. Proficient in software development, algorithm design, and data structures, I bring a versatile skill set to the table. My expertise extends to database management and web development. Recognized for robust problem-solving abilities and critical thinking, I am dedicated to continuous learning and staying updated on industry trends. My active contributions to collaborative projects on GitHub showcase a solid foundation in computer science principles and a passion for crafting innovative solutions. Let's connect and build something amazing! 🚀</p>
+<p align="justify">👋 Hi, I'm Rohit, a driven computer science student with a focus on Java and Spring Boot. Proficient in software development, algorithm design, and data structures, I bring a versatile skill set to the table. My expertise extends to database management and web development. Recognized for robust problem-solving abilities and critical thinking, I am dedicated to continuous learning and staying updated on industry trends. My active contributions to collaborative projects on GitHub showcase a solid foundation in computer science principles and a passion for crafting innovative solutions. Let's connect and build something amazing! 🚀</p>
 
 - 🔭 I'm a programmer.
 - 📚 Currently learning Node.js and TS.
